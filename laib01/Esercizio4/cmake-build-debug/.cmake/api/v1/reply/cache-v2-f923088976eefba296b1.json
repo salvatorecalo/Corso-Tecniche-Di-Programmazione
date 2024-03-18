@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/Users/salvatorecalo/Desktop/Tecniche di Programmazione/laib01/cmake-build-debug"
+			"value" : "/Users/salvatorecalo/Desktop/Tecniche di Programmazione/laib01/Esercizio4/cmake-build-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -383,7 +383,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/Users/salvatorecalo/Desktop/Tecniche di Programmazione/laib01/cmake-build-debug/CMakeFiles/pkgRedirects"
+			"value" : "/Users/salvatorecalo/Desktop/Tecniche di Programmazione/laib01/Esercizio4/cmake-build-debug/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -443,7 +443,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/Users/salvatorecalo/Desktop/Tecniche di Programmazione/laib01"
+			"value" : "/Users/salvatorecalo/Desktop/Tecniche di Programmazione/laib01/Esercizio4"
 		},
 		{
 			"name" : "CMAKE_INSTALL_NAME_TOOL",
@@ -723,7 +723,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "laib01"
+			"value" : "Esercizio4"
 		},
 		{
 			"name" : "CMAKE_RANLIB",
@@ -1022,7 +1022,7 @@
 			"value" : "FALSE"
 		},
 		{
-			"name" : "laib01_BINARY_DIR",
+			"name" : "Esercizio4_BINARY_DIR",
 			"properties" : 
 			[
 				{
@@ -1031,10 +1031,10 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/Users/salvatorecalo/Desktop/Tecniche di Programmazione/laib01/cmake-build-debug"
+			"value" : "/Users/salvatorecalo/Desktop/Tecniche di Programmazione/laib01/Esercizio4/cmake-build-debug"
 		},
 		{
-			"name" : "laib01_IS_TOP_LEVEL",
+			"name" : "Esercizio4_IS_TOP_LEVEL",
 			"properties" : 
 			[
 				{
@@ -1046,7 +1046,7 @@
 			"value" : "ON"
 		},
 		{
-			"name" : "laib01_SOURCE_DIR",
+			"name" : "Esercizio4_SOURCE_DIR",
 			"properties" : 
 			[
 				{
@@ -1055,7 +1055,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/Users/salvatorecalo/Desktop/Tecniche di Programmazione/laib01"
+			"value" : "/Users/salvatorecalo/Desktop/Tecniche di Programmazione/laib01/Esercizio4"
 		}
 	],
 	"kind" : "cache",

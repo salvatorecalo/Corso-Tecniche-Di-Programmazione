@@ -1,8 +1,5 @@
 #include <stdio.h>
 
-// Salvatore Calò
-// matricola: 324208
-
 int main(void){
     // Declare x and y variable as integer
     int x, y;

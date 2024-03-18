@@ -1,3 +1,3 @@
-/Users/salvatorecalo/Desktop/Tecniche di Programmazione/laib01/cmake-build-debug/CMakeFiles/laib01.dir
-/Users/salvatorecalo/Desktop/Tecniche di Programmazione/laib01/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/salvatorecalo/Desktop/Tecniche di Programmazione/laib01/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/salvatorecalo/Desktop/Tecniche di Programmazione/laib01/esercizio1/cmake-build-debug/CMakeFiles/laib01.dir
+/Users/salvatorecalo/Desktop/Tecniche di Programmazione/laib01/esercizio1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/salvatorecalo/Desktop/Tecniche di Programmazione/laib01/esercizio1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
